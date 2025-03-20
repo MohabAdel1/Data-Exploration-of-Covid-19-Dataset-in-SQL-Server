@@ -1,6 +1,6 @@
 # Data-Exploration-of-Covid-19-Dataset-in-SQL-Server
 
-1. Exploring the Data #
+1. Exploring the Data
 A) Purpose: This query retrieves all rows from the CovidDeaths table where the continent column is NULL. This is useful for identifying data that might be aggregated at a continental or global level      rather than at a country level.
 
 B) Insight: Rows with NULL in the continent column likely represent summaries for continents or global totals.
